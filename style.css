@@ -20,3 +20,20 @@ button {
     font-family: 'Encode Sans SC', sans-serif;
     color: #5b2c6f;
 }
+
+.carousel {
+  width:640px;
+  height:360px;
+}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+.carousel-inner img {
+  margin: auto;
+}
+
